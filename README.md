@@ -4,5 +4,6 @@
 
 It includes some links to projects you can check out and a bit of info about me.
 
-The site is entirely static and hosted for free via Fastly, which 
-provides automated scaling, deployment, CDN services, an autorenewing HTTPS cert via LetsEncrypt, and push to deploy automatically.
+The site is entirely static and hosted for free via Netlify, which
+provides automated scaling, deployment, CDN services, an autorenewing HTTPS cert via LetsEncrypt, and push to deploy
+automatically.
